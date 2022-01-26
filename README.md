@@ -1,0 +1,2 @@
+# GxEPD2_Version_4in2_epd_calendar
+基于GXEPD2库文件开发的通用版多功能墨水屏台历
